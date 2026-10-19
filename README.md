@@ -1,7 +1,14 @@
 # Shramjivi Janata Sahayak Mandal (SJSM)
 ## Master Project Portfolio & Technical Deliverables Repository
 
+[![Client - SJSM Satara](https://img.shields.io/badge/Client-Shramjivi_Janata_Sahayak_Mandal_(SJSM)_Satara-2E7D32?style=for-the-badge&logo=googleearth&logoColor=white)](https://github.com/007-Wik/SJSM-WORK-reports-Mapping-)
+[![Consulting Partner - PravahaTattva Solutions](https://img.shields.io/badge/Consultant-PravahaTattva_Solutions,_Karad-0077B6?style=for-the-badge&logo=target&logoColor=white)](mailto:satwikudupi@gmail.com)
+[![Lead Consultant - Satwik K. Udupi](https://img.shields.io/badge/Lead_Engineer-Satwik_K._Udupi-F77F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/007-Wik)
+[![License - Proprietary SJSM Property](https://img.shields.io/badge/IP_Ownership-Proprietary_%7C_SJSM_Property-D62828?style=for-the-badge&logo=shield&logoColor=white)](./LICENSE.md)
+[![Status - 100% Delivered](https://img.shields.io/badge/Status-100%25_Delivered_&_Verified-38B000?style=for-the-badge&logo=checkmarx&logoColor=white)](./WORKSPACE_PROJECTS_DIRECTORY.md)
+
 **Organization:** Shramjivi Janata Sahayak Mandal (SJSM), Satara, Maharashtra  
+**Technical Consultant & Author:** PravahaTattva Solutions, Karad (Satwik K. Udupi)  
 **Project Span:** Annual Reports, Completion Reports, CSR Project Documentation & Spatial GIS Modeling  
 **Target Financial Years:** FY 2025–26 & Continuing Engagements  
 
@@ -58,7 +65,46 @@ Every project folder within this repository adheres to a standardized hierarchy:
 
 ---
 
-## 🤝 Professional Collaboration & Ongoing Support
+## 📜 Intellectual Property & Ownership Rights
+
+* **Exclusive IP & Data Rights:** All data, geospatial models, cartographic maps, completion reports, presentation decks, and field imagery contained within this repository are the **exclusive proprietary intellectual property (IP) and copyright of Shramjivi Janata Sahayak Mandal (SJSM), Satara, Maharashtra**.
+* **Technical Authorship & Consulting Agency:** All spatial GIS processing, hydrological pipelines, drone aerial analysis, and document authoring were executed by **PravahaTattva Solutions, Karad**, led by **Satwik K. Udupi** (Agricultural Engineer & Water Resource Professional).
+* **Usage & Citation:** Unauthorized commercial use, resale, or uncredited redistribution is strictly prohibited. For complete licensing terms, restrictions, and citation formats, refer to the full [**`LICENSE.md`**](./LICENSE.md).
+
+---
+
+## 🌐 Technical Consulting Partner — PravahaTattva Solutions
+
+**PravahaTattva Solutions** is an engineering and geospatial consultancy specialized in watershed management, environmental modeling, and natural resource analytics.
+
+```
+       ____                                 __         __  __                ____        __      __  _                 
+      / __ \ _____ ____ _ _   __ ____ _    / /_  ____ / /_/ /_ _   __ ____ _/ __/____   / /__  __/ /_(_)____   ____  _____
+     / /_/ // ___// __ `/| | / // __ `/   / __/ / __ `/ __/ __/| | / // __ `/\ \ / __ \ / // / / / __// // __ \ / __ \/ ___/
+    / ____// /   / /_/ / | |/ // /_/ /   / /_  / /_/ / /_/ /_  | |/ // /_/ /__\ \ /_/ // // /_/ / /_ / // /_/ // / / /\__ \ 
+   /_/    /_/    \__,_/  |___/ \__,_/    \__/  \__,_/\__/\__/  |___/ \__,_//___/\____//_/ \__,_/\__//_/ \____//_/ /_//____/  
+```
+
+### Core Expertise & Solution Domains:
+* 🌊 **Advanced Hydrological & Watershed Modeling:** D8 flow direction, Strahler stream order classification, catchment delineation, drainage density, and runoff potential mapping.
+* 🛰️ **Geospatial & Remote Sensing Analytics:** Google Earth Engine (GEE), WhiteboxTools, Copernicus GLO-30 DEM processing, Esri 10m LULC classification, and multi-temporal NDVI vegetation monitoring.
+* 📐 **Water Harvesting & Conservation Siting:** Scientific site selection and layout design for Farm Ponds, Continuous Contour Trenches (CCT), Cement Nala Bunds (CNB), and Gabion check dams.
+* 🛸 **Drone Photogrammetry & Field Verification:** High-resolution orthomosaics, 3D digital surface models (DSM), and field progress monitoring.
+* 📊 **Consulting-Grade Reporting & Cartography:** Publication-ready 300 DPI cartographic maps, multi-tab analytical Excel workbooks, executive presentation decks, and DPR documentation for CSR donors.
+
+### Contact & Consultation:
+* **Lead Consultant:** **Satwik Kamlakar Udupi**  
+  *Agricultural Engineer & Water Resource Professional*  
+  *Specialist: Hydrology, GIS, Hydraulics, CFD & Watershed Planning*
+* 📍 **Office Location:** Ambika Bhavan, Krishna Canal, Vidyanagar, Karad, Maharashtra – 415124, India
+* 📧 **Email:** [satwikudupi@gmail.com](mailto:satwikudupi@gmail.com)
+* 📞 **Phone:** [+91 9834300849](tel:+919834300849)
+* 💻 **GitHub:** [@007-Wik](https://github.com/007-Wik)
+* 📁 **Repository:** [SJSM-WORK-reports-Mapping-](https://github.com/007-Wik/SJSM-WORK-reports-Mapping-)
+
+---
+
+## 🤝 Ongoing Engagement & Collaboration
 
 We value the continued partnership with **Shramjivi Janata Sahayak Mandal (SJSM)** and remain dedicated to supporting your mission of rural empowerment, sustainable water management, and ecological restoration.
 
