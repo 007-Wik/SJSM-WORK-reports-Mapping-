@@ -1,0 +1,13 @@
+value,category,class_name,hex_color,area_ha,pct
+1,Built Up,Built Up,#ff0000,3315.2,1.62
+2,Agricultural Land,Kharif Crop,#ffd200,56687.0,27.77
+3,Agricultural Land,Rabi Crop,#ff9f00,7222.5,3.54
+4,Agricultural Land,Zaid Crop,#9f522c,154.5,0.08
+5,Agricultural Land,Double / Triple Crop,#9fce1f,28554.0,13.99
+6,Agricultural Land,Current Fallow,#f5f5dc,57526.2,28.18
+7,Agricultural Land,Plantation,#00cc00,564.0,0.28
+9,Forest,Deciduous Forest,#6c791f,369.5,0.18
+10,Forest,Degraded / Scrub Forest,#74b82c,210.5,0.1
+14,Wasteland,Wasteland,#d2b485,40995.0,20.08
+16,Waterbodies,Waterbodies Max,#5fd2f3,5531.8,2.71
+17,Waterbodies,Waterbodies Min,#009edf,3035.0,1.49

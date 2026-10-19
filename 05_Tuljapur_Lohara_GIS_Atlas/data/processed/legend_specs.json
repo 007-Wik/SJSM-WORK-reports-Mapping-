@@ -1,0 +1,99 @@
+{
+  "lulc_esri": {
+    "1": [
+      "Water",
+      "#1A5BAB"
+    ],
+    "2": [
+      "Trees",
+      "#358221"
+    ],
+    "4": [
+      "Flooded vegetation",
+      "#87D19E"
+    ],
+    "5": [
+      "Crops",
+      "#FFDB5C"
+    ],
+    "7": [
+      "Built area",
+      "#ED022A"
+    ],
+    "8": [
+      "Bare ground",
+      "#EDE9E4"
+    ],
+    "9": [
+      "Snow/ice",
+      "#F2FAFF"
+    ],
+    "10": [
+      "Clouds",
+      "#C8C8C8"
+    ],
+    "11": [
+      "Rangeland",
+      "#C6AD8D"
+    ]
+  },
+  "slope_pct_nbss": {
+    "breaks": [
+      0,
+      1,
+      3,
+      5,
+      10,
+      15,
+      35,
+      1000
+    ],
+    "labels": [
+      "0-1 Nearly level",
+      "1-3 Very gently sloping",
+      "3-5 Gently sloping",
+      "5-10 Moderately sloping",
+      "10-15 Strongly sloping",
+      "15-35 Moderately steep",
+      ">35 Steep"
+    ]
+  },
+  "soil_depth_cm_nbss": {
+    "breaks": [
+      0,
+      10,
+      25,
+      50,
+      100,
+      150,
+      100000
+    ],
+    "labels": [
+      "<10 Very shallow",
+      "10-25 Shallow",
+      "25-50 Moderately shallow",
+      "50-100 Moderately deep",
+      "100-150 Deep",
+      ">150 Very deep"
+    ]
+  },
+  "ndvi": {
+    "breaks": [
+      -1,
+      0,
+      0.15,
+      0.3,
+      0.45,
+      0.6,
+      1
+    ],
+    "labels": [
+      "<0 Water/non-veg",
+      "0-0.15 Bare/built",
+      "0.15-0.3 Sparse",
+      "0.3-0.45 Moderate",
+      "0.45-0.6 Dense",
+      ">0.6 Very dense"
+    ]
+  }
+}

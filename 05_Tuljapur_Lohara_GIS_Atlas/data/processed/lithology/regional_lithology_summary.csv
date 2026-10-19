@@ -1,0 +1,18 @@
+Major_Lithology,num_wells,min_dist_km,mean_dist_km
+"Basalt, Shale, Limestone",8,32.4,40.8
+Esicular Basalt,8,13.0,39.3
+"Fractured Basalt, Vesicular Basalt",2,34.5,34.5
+Fractured Massive Basalt,6,29.3,35.8
+Fractured Massive Basalt & Contact Btw Massive Basalt & Rb,1,39.8,39.8
+"Fractured Massive Basalt, Vesicular Basalt-Fractured",1,25.8,25.8
+Fractured Vesicular Basalt,5,12.2,32.0
+"Fractured Vesicular Basalt, Fractured Massive Basalt",1,40.7,40.7
+Fractured Vesicular Massive Basalt,1,25.7,25.7
+Massive Basalt,1,21.4,21.4
+Massive Fractured Basalt,1,6.3,6.3
+"Massive Fractured Basalt, Vesicular Basalt",3,8.4,24.6
+"Massive Fractured Basalt, Vesicular Fractured Basalt",1,10.2,10.2
+NA,3,29.7,35.1
+"Vesicular Basalt, Fractured Massive Basalt",1,22.6,22.6
+Weathered Fractured Basalt,1,14.1,14.1
+"Weathered Vesicular Fractured Basalt, Vesicular Basalt",1,43.7,43.7

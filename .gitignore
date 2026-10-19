@@ -1,0 +1,32 @@
+# Operating System Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary Office Lock Files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.dotx
+~$*.doc
+
+# Python & Environment Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+.venv
+env/
+venv/
+ENV/
+
+# QGIS & ArcGIS Temporary Caches
+*.qgz~
+*.qgs~
+*.mxd.xml
+*.gdbindexes.tmp
+*.zip
+05_Tuljapur_Lohara_GIS_Atlas/data/raw/

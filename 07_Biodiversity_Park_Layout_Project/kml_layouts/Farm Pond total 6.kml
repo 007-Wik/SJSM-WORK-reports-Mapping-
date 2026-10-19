@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Farm Pond total 6.kml</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Farm Pond No 1</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.83221881597234,17.4608493450321,0 73.83234275753409,17.46090850783923,0 73.83226338335405,17.4610907651665,0 73.83212927699111,17.46103104410077,0 73.83221881597234,17.4608493450321,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Farm Pond No 6</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.83126633750683,17.45597473665611,0 73.83139996428716,17.45590868538929,0 73.83147181068085,17.4560959023094,0 73.8313307555775,17.45615762105949,0 73.83126633750683,17.45597473665611,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Farm pond no 3</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.82786374968494,17.45636899037251,0 73.82805507836652,17.45628696341624,0 73.82814555279199,17.45646409580247,0 73.82794719896604,17.45654340914942,0 73.82786374968494,17.45636899037251,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Farm pond No 4</name>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.82962104966523,17.45363463289251,0 73.82975404204805,17.45356249643138,0 73.82980651605048,17.45369189269506,0 73.82963055149729,17.45376510683182,0 73.82962104966523,17.45363463289251,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Farm Pond no 2</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.83132915069424,17.45898074721474,0 73.83145270823726,17.45896899059183,0 73.8315037801506,17.45925871967546,0 73.83135877003549,17.45926567470207,0 73.83132915069424,17.45898074721474,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Farm pond No 5</name>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						73.83034973331266,17.45363702011591,0 73.83045953365077,17.45358133057439,0 73.83051080288828,17.45371859245191,0 73.83036300531948,17.45374542431701,0 73.83034973331266,17.45363702011591,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Park Road </name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				73.83439805265505,17.45919133226965,0 73.83410313027925,17.4592834741028,0 73.8337234988379,17.45936977533702,0 73.83349790268966,17.45939568827294,0 73.83320619070837,17.45936671691892,0 73.83293868146293,17.45934946041167,0 73.83257590823121,17.45963860243331,0 73.83232701310453,17.45993588149526,0 73.83228909318747,17.46002582198548,0 73.8322383761776,17.46005385568242,0 73.83216780220363,17.46002516413277,0 73.83209882830425,17.45995384385551,0 73.8320144822333,17.45983565132704,0 73.8319009046871,17.45967342369953,0 73.83172081281113,17.45948129025922,0 73.83158140237263,17.4593054254107,0 73.8315275939205,17.45907183382212,0 73.83145977153282,17.45877675743756,0 73.83141169889416,17.45828661021981,0 73.8314211968183,17.45778057323909,0 73.83136923609726,17.45713413797749,0 73.83132438463197,17.4568845550182,0 73.83123347713988,17.45643566328227,0 73.83116807771425,17.45624238617164,0 73.83112406153741,17.45591794978994,0 73.83095057617929,17.45557623542588,0 73.8308907841611,17.45534618332037,0 73.8307604559507,17.45504796477652,0 73.83067708394825,17.45486593945985,0 73.83060169194707,17.45459661677272,0 73.83056275678048,17.45448404476009,0 73.83053483281867,17.45417682749212,0 73.8306548498776,17.45401621032236,0 73.83078075437999,17.4539010832169,0 73.83102179103074,17.45366312228936,0 73.83105614371784,17.45359931136755,0 73.83106103142518,17.45359019554395,0 73.83116472260944,17.45342019714847,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Park Road</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				73.83049756780889,17.45423969448001,0 73.82996442796275,17.45431179936213,0 73.82958334590366,17.45436732166351,0 73.82899332963042,17.45450757195083,0 73.82855614448219,17.4546248272518,0 73.82843685835935,17.4546516053259,0 73.82830907790766,17.45473063622048,0 73.82827060177645,17.45509056760432,0 73.8282146282527,17.45534439937882,0 73.8281900345535,17.45561003598518,0 73.82822088559726,17.45579489266612,0 73.82844250636207,17.45595011057114,0 73.82872699083876,17.4561064343858,0 73.82894512068599,17.45621262619477,0 73.82908146139849,17.45645369175875,0 73.8290941844563,17.45667559912613,0 73.82913471632612,17.45684724951488,0 73.82911539548526,17.45705852827603,0 73.82912399483362,17.45729497237655,0 73.82911187707032,17.45768102351022,0 73.82913633104221,17.45813108507796,0 73.82916288751667,17.45878606265561,0 73.82915945092965,17.45879285061891,0 73.82924664710647,17.45919010006369,0 73.82928366220798,17.45950077105991,0 73.82953326721234,17.45956976797975,0 73.82979555758337,17.4595865408464,0 73.82998281497392,17.45959421243319,0 73.83023428337722,17.45962107720547,0 73.83070242864831,17.45973949694038,0 73.83110760949764,17.45985372530532,0 73.83140076156492,17.45999459065598,0 73.83156819294352,17.46009457674234,0 73.83163030290132,17.46012137693483,0 73.83184922538129,17.46007301110501,0 73.83203690457971,17.46002700890703,0 73.83214654855352,17.46000387098908,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Park Road</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				73.82909426542038,17.45702759206974,0 73.82867414174657,17.45719081077986,0 73.82815375851979,17.45727900382973,0 73.82793531811814,17.45740096244188,0 73.8274864836841,17.45747291333829,0 73.82722508826697,17.45752875961298,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

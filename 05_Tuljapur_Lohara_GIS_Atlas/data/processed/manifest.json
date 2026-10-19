@@ -1,0 +1,12 @@
+{
+  "_run": {
+    "date": "2026-10-12T23:23:30",
+    "mode": "local",
+    "crs": "EPSG:32643",
+    "aoi": [
+      "Tuljapur",
+      "Lohara"
+    ],
+    "stream_threshold_km2": 3.0
+  }
+}
